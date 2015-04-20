@@ -1,0 +1,30 @@
+#borderBox{
+	padding: 10px 10px 10px 10px;
+	clear:both;
+	border:5px solid black;
+	overflow:hidden;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+#borderBoxLeft{
+	float:left;
+  	width:30%;
+}
+
+borderBoxRight{
+	float:left;
+}
+
+#borderBoxHeadline{
+	font-size:24px;
+	text-align:center;
+}
+
+#borderBoxMessage{
+	float:left;
+	width:69%
+}
+
+#borderBoxImage{
+	width:150px;
+}
